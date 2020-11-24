@@ -8,7 +8,7 @@ weight = 21  # Order that this section will appear.
 # title = "CSX.io"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "csx_logo.svg"
+hero_media = "csx_logo_black_notext.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.
