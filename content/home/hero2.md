@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 23  # Order that this section will appear.
 
-# title = "VOTE for CSX BP"
+ title = "VOTE for CSX BP"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "csx_logo_black_notext.svg"
@@ -51,10 +51,11 @@ weight = 23  # Order that this section will appear.
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**EOS**
-**Telos**
-**WAX**
-**Instar**
-**Proton**
+**EOS |**
+**Telos |**
+**WAX |**
+**Instar |**
+**Proton |**
+**ORE-ID **
 
 
