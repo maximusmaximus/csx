@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 21  # Order that this section will appear.
 
-# title = "CSX.io"
+ title = "CSX Block Producer"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "csx_logo_black_notext.svg"
