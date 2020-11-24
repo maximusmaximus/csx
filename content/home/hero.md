@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 21  # Order that this section will appear.
 
-title = "CSX.io"
+# title = "CSX.io"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "csx_logo.svg"
@@ -20,8 +20,8 @@ hero_media = "csx_logo.svg"
   # color = "black"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#008db8"
+  gradient_end = "#5fa038"
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
