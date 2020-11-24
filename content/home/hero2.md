@@ -56,6 +56,6 @@ weight = 23  # Order that this section will appear.
 **WAX |**
 **Instar |**
 **Proton |**
-**ORE-ID **
+**ORE-ID**
 
 
