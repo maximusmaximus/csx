@@ -3,7 +3,7 @@
 widget = "hero"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 23  # Order that this section will appear.
 
 # title = "VOTE for CSX BP"
 
@@ -31,7 +31,7 @@ weight = 20  # Order that this section will appear.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
