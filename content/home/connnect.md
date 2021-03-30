@@ -40,7 +40,7 @@ weight = 25  # Order that this section will appear.
 # label = '<a href="https://t.me/csxio" >Telegram</a>'
 +++
 
- **Twitter | Telegram | E-Mail**
+ **Twitter | <a href="https://t.me/csxio" >Telegram</a> | E-Mail**
 
 
 
