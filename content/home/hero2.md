@@ -51,9 +51,9 @@ weight = 23  # Order that this section will appear.
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
+**WAX |**
 **EOS |**
 **Telos |**
-**WAX |**
 **Instar |**
 **Proton |**
 **ORE-ID**
