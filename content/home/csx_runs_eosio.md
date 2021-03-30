@@ -54,19 +54,23 @@ weight = 23  # Order that this section will appear.
 
  [cta_alt]
  url = "https://wowchemy.com/docs/install/"
- label = "Get Started"
- 
-  [cta_alt]
- url = "https://wowchemy.com/docs/install/"
- label = "Get Started"
+ label = "1"
  
  [cta_alt]
  url = "https://wowchemy.com/docs/install/"
- label = "Get Started"
+ label = "2"
  
-  [cta_alt]
+ [cta_alt]
  url = "https://wowchemy.com/docs/install/"
- label = "Get Started"
+ label = "3"
+ 
+ [cta_alt]
+ url = "https://wowchemy.com/docs/install/"
+ label = "4"
+ 
+ [cta_alt]
+ url = "https://wowchemy.com/docs/install/"
+ label = "5"
 
 +++
 
