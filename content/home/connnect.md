@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
- title = "CSX BP Candidate Runs</br>EOSIO Blockchains"
+ title = "Connect"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "csx_logo_black_notext.svg"
@@ -17,11 +17,12 @@ weight = 25  # Order that this section will appear.
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-    color = "black"
+  # color = "black"
   
   # Background gradient.
-  # gradient_start = "#008db8"
-  # gradient_end = "#5fa038"
+  gradient_start = "#5fa038"
+  gradient_end = "#008db8"
+  
   
   # Background image.
   # image = ""  # Name of image in `static/media/`.
@@ -31,31 +32,20 @@ weight = 25  # Order that this section will appear.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
-
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
-# [cta]
-# url = "https://wowchemy.com/docs/install/"
-# label = "Get Started"
-# icon_pack = "fas"
-# icon = "download"
+  text_color_light = false
   
-# [cta_alt]
-#  url = "https://wowchemy.com"
-#  label = "View Documentation"
+
+  
+  [cta_alt]
+  url = "https://t.me/csxio"
+  label = "Telegram"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**WAX |**
-**EOS |**
-**Telos |**
-**Instar |**
-**Proton |**
-**ORE-ID**
+**Connect and Follow**
+
 
 
