@@ -53,8 +53,8 @@ weight = 23  # Order that this section will appear.
 
 
  [cta_alt]
- url = "https://wowchemy.com/docs/install/"
- label = "1"
+ url = "WAX"
+ label = "WAX"
  
  [cta_alt]
  url = "https://wowchemy.com/docs/install/"
