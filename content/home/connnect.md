@@ -36,11 +36,11 @@ weight = 25  # Order that this section will appear.
   
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-label = '<a href="https://t.me/csxio" >Telegram</a>'
+# [cta_note]
+# label = '<a href="https://t.me/csxio" >Telegram</a>'
 +++
 
-**Connect and Follow**
+[https://t.me/csxio](**Connect and Follow**)
 
 
 
