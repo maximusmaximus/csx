@@ -6,6 +6,8 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
  title = "Connect"
+ 
+ [https://t.me/csxio](**Connect and Follow**)
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = "csx_logo_black_notext.svg"
@@ -40,7 +42,7 @@ weight = 25  # Order that this section will appear.
 # label = '<a href="https://t.me/csxio" >Telegram</a>'
 +++
 
-[https://t.me/csxio](**Connect and Follow**)
+
 
 
 
