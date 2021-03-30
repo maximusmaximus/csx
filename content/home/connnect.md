@@ -37,10 +37,10 @@ weight = 25  # Order that this section will appear.
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
+label = '<a href="https://t.me/csxio" >Telegram</a>'
 +++
 
-**Connect and Follow: Telegram**
+**Connect and Follow**
 
 
 
