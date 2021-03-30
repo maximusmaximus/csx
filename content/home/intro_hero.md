@@ -33,14 +33,6 @@ hero_media = "csx_logo_black_notext.svg"
   # Text color (true=light or false=dark).
   text_color_light = false
 
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
-# [cta]
-# url = "https://wowchemy.com/docs/install/"
-# label = "Get Started"
-# icon_pack = "fas"
-# icon = "download"
   
 # [cta_alt]
 #  url = "https://wowchemy.com"
@@ -52,4 +44,13 @@ hero_media = "csx_logo_black_notext.svg"
 +++
 
 **A community BP candidate dedicated to EOSIO-based blockchains. CSX Community values are based on transparency and accountability.**
+
+# Call to action links (optional).
+#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
+#   Remove a link/note by deleting a cta/note block.
+[cta]
+url = "https://wowchemy.com/docs/install/"
+label = "learn more"
+icon_pack = "fas"
+icon = "download"
 
