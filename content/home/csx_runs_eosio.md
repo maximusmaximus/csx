@@ -50,11 +50,13 @@ weight = 23  # Order that this section will appear.
 # [cta_note]
 #  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 
- [cta]
+ 
+
+ [cta_alt]
  url = "https://wowchemy.com/docs/install/"
  label = "Get Started"
  
- [cta_alt]
+  [cta_alt]
  url = "https://wowchemy.com/docs/install/"
  label = "Get Started"
 
