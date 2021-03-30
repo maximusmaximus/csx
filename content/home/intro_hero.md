@@ -41,7 +41,7 @@ url = "https://wowchemy.com/docs/install/"
 label = "learn more"
 icon_pack = "fas"
 icon = "download"
-color = "black"
+color = "white"
 
   
 # [cta_alt]
