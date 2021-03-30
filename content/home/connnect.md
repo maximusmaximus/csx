@@ -35,17 +35,12 @@ weight = 25  # Order that this section will appear.
   text_color_light = false
   
 
-  
-  [cta_alt]
-  url = "https://t.me/csxio"
-  label = "Telegram"
-
 # Note. An optional note to show underneath the links.
-# [cta_note]
-#  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
+[cta_note]
+label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
-**Connect and Follow**
+**Connect and Follow: Telegram**
 
 
 
